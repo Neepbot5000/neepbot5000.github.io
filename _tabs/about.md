@@ -4,7 +4,7 @@ title: About me
 icon: fas fa-info-circle
 order: 1
 ---
-**Hi!** This is the (informal) website of Alistair (*Neepbot*). This website exists all because I just wanted the domain [neep.bot](neep.bot), but then seeming as I already had purchased the domain, I just decided to create a blog, containing some information about me. 
+**Hi!** This is the (informal) website of Alistair (*Neepbot*). This website exists all because I just wanted the domain [neep.bot](https://neep.bot), but then seeming as I already had purchased the domain, I just decided to create a blog, containing some information about me. 
 
 ---
 

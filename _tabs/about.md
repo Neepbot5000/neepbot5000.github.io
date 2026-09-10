@@ -4,7 +4,7 @@ title: Hi there
 icon: fas fa-info-circle
 order: 1
 ---
-**Hi!** This is the (informal) website of Alistair (*Neepbot*). This website exists all because I just wanted the domain [neep.bot](https://neep.bot), but then seeming as I already had purchased the domain, I just decided to create a blog, containing some information about me. 
+**Hi!** This is the (informal) website of Alistair *(Neepbot)*. This website exists all because I just wanted the domain [neep.bot](https://neep.bot), but then seeming as I already had purchased the domain, I just decided to create a blog, containing some information about me. 
 
 ---
 
@@ -23,9 +23,9 @@ order: 1
 
 ---
 ### Contact
-Except on twitter, my handle is "neepbot" for nearly everything that matter. I don't use TikTok.  
+Except on twitter, my handle is "neepbot" for most things. I don't use TikTok or Reddit.  
 
-The easiest way to contact me if you don't know me is through email - *which I will create one for this website. Come back in a day or so*
+The easiest way to contact me if you don't know me is through email at [hello@neep.bot](mailto:hello@neep.bot).
 
 ---
 

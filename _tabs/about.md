@@ -12,7 +12,7 @@ order: 1
 - I am located in West Berkshire, about a 30 minute [train](https://tiger.worldline.global/NEWBURY/cisds;graphic=1) journey from London. (London, England)
 - I'm studying to study *Electrical and Electronic Engineering* at university, or a degree apprenticeship.
     - I am studying three A-Levels in Maths, Further Maths, and Physics.
-- I used to play the piano, achieving a distinction in grade 6 before I stopped to focus on study.
+- I used to play the piano before I stopped to focus on my studies.
 - I poured too much effort into GCSEs.
 - I like to go on long walks, and I run from time to time.
 - I use a used £100 Thinkpad X1 Carbon...

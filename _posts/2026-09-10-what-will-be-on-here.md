@@ -11,7 +11,6 @@ I can't really say what I *will* post on here, becuase ultimately that will be w
 I would also probably just post my hobbies on here. Only problem is that my hobbies *are* Maths, Physics, with a little bit of Computer Science.  
 Of course, I will post other things on here too often - but if you have a fear of numbers [^1], it's probably a good idea to turn around.  
 
-
 Don't worry, I will never post anything related to statistics without a prior warning.
 
 [^1]: I said this as a joke, but it's [apparently a thing](https://my.clevelandclinic.org/health/diseases/22545-arithmophobia-fear-of-numbers).

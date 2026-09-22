@@ -23,7 +23,6 @@ order: 1
 
 ---
 ### Contact
-Except on twitter, my handle is "neepbot" for most things. I don't use TikTok or Reddit.  
 
 The easiest way to contact me if you don't know me is through email at [hello@neep.bot](mailto:hello@neep.bot).
 

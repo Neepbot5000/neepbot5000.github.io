@@ -65,13 +65,13 @@ Once you have your resolution, it might be tempting to just calculate the uncert
 This is really important, and while you might think they are both verbs for "reading something off an instrument", there is a key difference.  
 #### Readings
 A *reading* is when you record the length/weight/mass/etc *once*. A common example of this is reading off a digital instrument, like this ammeter.
-![Your typical school ammeter.](https://ravencourtclocks.com/cdn/shop/files/story-sons-satz-digital-school-ammeter-38281913106602.jpg?v=1728289126)  
+![Your typical school ammeter.](https://ravencourtclocks.com/cdn/shop/files/story-sons-satz-digital-school-ammeter-38281913106602.jpg?v=1728289126){: w="300" h="300" }  
 to calculate the uncertainty, divide the resolution by 2. In this case, `5.00 ± 0.005 A`.
 
 #### Measurements
 A meaurement is when you record the length/weight/mass/etc *twice*. You might think of never doing this, but whenever you record the length of an object on a ruler, you do this.  
 
- ![These Rubik's cubes are very small.](https://3dprintingindustry.com/wp-content/uploads/2015/02/worlds-smallest-rubiks-cube-3D-printed.jpg)
+ ![These Rubik's cubes are very small.](https://3dprintingindustry.com/wp-content/uploads/2015/02/worlds-smallest-rubiks-cube-3D-printed.jpg){: w="300" }
 
 If we want to measure the length of the 2x2 Rubik's cube in the middle, we have to record the *start point* and the *end point* - because that minature definately isn't 5 cm!  
 

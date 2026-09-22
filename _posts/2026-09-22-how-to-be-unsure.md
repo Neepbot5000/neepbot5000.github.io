@@ -108,5 +108,5 @@ So we would *add* the voltage and ampere uncertainties. But before we do that, w
 
 `V = 12.0 ± 1/240`  
 `A = 3.00 ± 1/300`  
-Now we just need to add those fractions - giving us `R = 3/400`. But this is still a fractional uncertainty. We can convert by multiplying that fraction with our answer (4 Ω):  
+Now we just need to add those fractions - giving us `R = 3/400`. But this is still a fractional uncertainty. We can convert to an absolute uncertainty by multiplying that fraction with our answer (4 Ω):  
 `4 * 3/400 = 0.03` - that's our uncertainty, giving `4 ± 0.03 Ω` as the final ansewr.

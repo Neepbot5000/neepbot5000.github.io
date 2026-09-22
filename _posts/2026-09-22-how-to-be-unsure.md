@@ -64,8 +64,10 @@ Once you have your resolution, it might be tempting to just calculate the uncert
 
 This is really important, and while you might think they are both verbs for "reading something off an instrument", there is a key difference.  
 #### Readings
-A *reading* is when you record the length/weight/mass/etc *once*. A common example of this is reading off a digital instrument, like this ammeter.
+A *reading* is when you record the length/weight/mass/etc *once*. A common example of this is reading off a digital instrument, like this ammeter.  
+
 ![Your typical school ammeter.](https://ravencourtclocks.com/cdn/shop/files/story-sons-satz-digital-school-ammeter-38281913106602.jpg?v=1728289126){: w="300" }  
+
 to calculate the uncertainty, divide the resolution by 2. In this case, `5.00 ± 0.005 A`.
 
 #### Measurements

@@ -22,7 +22,7 @@ However, if you *combine* two numbers with uncertainties (like in a formula), yo
 
 What is that uncertainty?
 
-## But first, this is really important
+### But first, this is really important
 
 Accuracy is how close the *average value* is to the **true value**.
 Precision is how close your values are **to each other**.
@@ -42,14 +42,14 @@ So what is **percentage uncertainty** then? It sounds like another type of uncer
 
 Don't get mixed up between them!
 
-# Working out an uncertainty from a set of values
+## Working out an uncertainty from a set of values
 
 This is really easy. All you have to do is calculate the range of your data (high - low), and half this. This will be your uncertainty.   
 Additionally, calculate the mean of your data. This will be your value.  
 
 That's it! You should get something like `3.00 ± 0.01 A`.
 
-# Working out the uncertainty from the resolution of the equipment
+## Working out the uncertainty from the resolution of the equipment
 
 Mathmatically this is simple, but it's not the easiest thing to wrap your head around.  
 You'll first need to know the resolution of the equipment you worked with. The resoultion of a piece of apparatus will be **the smallest quantity that will result in a perceptable change in the reading.** For an ammeter with two decimal points, this would be `0.01 A`. For a standard 30cm ruler, this would be `1 mm`, because that's the distance between the graduation lines.
@@ -81,7 +81,7 @@ You are still recording twice. The object is not *exactly* at 0 cm, you have jus
 
 Whenever you take a measurement, your uncertainty will be ± *resolution*. Do not divide by 2.
 
-# Combining Uncertainties
+## Combining Uncertainties
 
 Before reading this, make sure you know about absolute, fractional and percentage uncertainties - if you don't, scroll up.  
 
@@ -95,7 +95,7 @@ There are a few basic rules to follow:
 
 Remember that fractional and percentage uncertainties are essentially the same thing. So, if you wanted to, you can always use the percentage uncertainties instead of the fractional uncertanties.
 
-## Let's use our example from earlier
+### Let's use our example from earlier
 > I want to calculate the resistance of a component in a circuit.
 > Using an ammeter, I have calculated A = 3.00 ± 0.01 A 
 > ...and V = 12.0 ± 0.05 V.

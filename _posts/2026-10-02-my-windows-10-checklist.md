@@ -29,15 +29,7 @@ The point I'm trying to make is that you should **maintain your computer like yo
 
 ## The checklist  
 
-- [x] this is a test
-- [ ] this is another test  
+<label><input type="checkbox"> Yet another test</label>
+<label><input type="checkbox"> Yet another test</label>
+<label><input type="checkbox"> Yet another test</label>
 
-<label>
-  <input type="checkbox">
-  This is another test
-</label>
-
-<label>
-  <input type="checkbox">
-  Yet another test
-</label>

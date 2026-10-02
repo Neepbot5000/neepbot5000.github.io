@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Windows 10 checklist
+title: My Windows 10 installation checklist
 category: Computer Science & Technology
 tags: ["technology", "guide"]
 date: 2026-10-02 17:32 +0100
@@ -29,7 +29,7 @@ The point I'm trying to make is that you should **maintain your computer like yo
 
 ## The checklist  
 
-<label><input type="checkbox"> Yet another test</label>
-<label><input type="checkbox"> Yet another test</label>
-<label><input type="checkbox"> Yet another test</label>
+<label><input type="checkbox"> Yet another test</label>  
+<label><input type="checkbox"> Yet another test</label>  
+<label><input type="checkbox"> Yet another test</label>  
 

@@ -174,7 +174,7 @@ Here are some that I use.
 <label><input type="checkbox"> [Discontinued; still works] [FastForward](https://chromewebstore.google.com/detail/fastforward/icallnadddjmdinamnolclfjanhfoafe) ad.fly bypass</label>  
 <label><input type="checkbox"> [Return Youtube Dislike](https://returnyoutubedislike.com/)</label>  
 <label><input type="checkbox"> [SponsorBlock](https://sponsor.ajay.app/) auto-skip YouTube paid promotion segments</label>  
-<label><input type="checkbox"> [Indie Wiki Buddy](http://getindie.wiki/) avoids fandom.com wikis</label>  
+<label><input type="checkbox"> [Indie Wiki Buddy](https://getindie.wiki/) avoids fandom.com wikis</label>  
 <label><input type="checkbox"> [ColorZilla](https://chromewebstore.google.com/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp) browser eyedroper tool</label>  
 <label><input type="checkbox"> External password manager (if you use one)</label>  
 <label><input type="checkbox"> [Consent-O-Matic](https://chromewebstore.google.com/detail/consent-o-matic/mdjildafknihdffpkfmmpnpoiajfjnjd
@@ -188,7 +188,7 @@ Tools to satiate the curious and demanding. Of course, since everyone's workflow
 <label><input type="checkbox"> [Sublime Text](https://www.sublimetext.com/)</label>  
 <label><input type="checkbox"> [Git for Windows](https://git-scm.com/install/windows)</label>  
 <label><input type="checkbox"> [python.org](https://www.python.org/)</label>  
-<label><input type="checkbox"> [PowerToys](http://learn.microsoft.com/en-us/windows/powertoys/)</label>  
+<label><input type="checkbox"> [PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/)</label>  
 <label><input type="checkbox"> [Process Explorer](https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer)</label>  
 <label><input type="checkbox"> [Adoptium Prebuilt OpenJDK Binaries](https://adoptium.net/en-GB)</label>  
 <label><input type="checkbox"> [Tailscale](https://tailscale.com/)</label>  
